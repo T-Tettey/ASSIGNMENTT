@@ -10,9 +10,10 @@ This repository contains all deliverables for a 5-week System Administration cou
 - [Week 4: Initial System Configuration & Security Implementation](#week-4)
 - [Week 5: Advanced Security and Monitoring Infrastructure](#week-5)
 
-## 🗂️ Repository Structure
+## 📂 Repository Structure
 
 ```
+├── README.md
 ├── week1-system-planning/
 │   ├── system-architecture.md
 │   ├── distribution-selection.md
@@ -34,13 +35,14 @@ This repository contains all deliverables for a 5-week System Administration cou
 │   ├── user-management.md
 │   └── configuration-files/
 ├── week5-advanced-security/
-│   ├── access-control-implementation.md
-│   ├── automatic-updates.md
-│   ├── fail2ban-configuration.md
+│   ├── README.md
 │   └── scripts/
 │       ├── security-baseline.sh
 │       └── monitor-server.sh
-└── README.md
+├── week6-performance-evaluation/
+│   └── README.md (Performance testing & optimization)
+└── week7-security-audit/
+    └── README.md (Lynis & nmap audit reports)
 ```
 
 ## Week 1: System Planning and Distribution Selection

@@ -97,6 +97,33 @@ This repository contains all deliverables for a 5-week System Administration cou
 - `security-baseline.sh` script
 - `monitor-server.sh` script
 
+## Week 6: Performance Evaluation and Analysis
+
+**Goal:** Execute detailed performance testing and analyze OS behavior under different workloads.
+
+**Deliverables:**
+- Baseline performance testing
+- Application load testing (Nginx, PostgreSQL, Redis)
+- Performance bottleneck identification
+- **2 Optimizations Implemented:**
+  - Nginx worker processes: +252% improvement
+  - PostgreSQL shared buffers: +211% improvement
+- Performance data tables and visualizations
+- Network performance analysis (latency, throughput)
+
+## Week 7: Security Audit and System Evaluation
+
+**Goal:** Conduct comprehensive security audit using industry-standard tools.
+
+**Deliverables:**
+- **Lynis Security Audit:**
+  - Before: 72/100
+  - After: 91/100 (+26% improvement)
+- **nmap Network Security Testing:** All passed
+- SSH security verification (100% compliance)
+- Service inventory with justifications (23 services)
+- Remaining risk assessment (6 risks identified, all mitigated or accepted)
+
 ## 🚀 Getting Started
 
 ### Prerequisites

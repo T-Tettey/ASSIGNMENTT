@@ -167,4 +167,4 @@ This project is created for educational purposes.
 
 ## 👤 Author
 
-System Administration Course Portfolio - 2025
+T Tettey - 2025
